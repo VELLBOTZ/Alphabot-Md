@@ -1,4 +1,4 @@
-const fs = require('fs')
+.const fs = require('fs')
 const chalk = require('chalk')
 const  { indonesia, english, spanyol} = require(`./language`)
 
@@ -39,7 +39,7 @@ global.premium = ['6285786508110'] //premium user
 global.owner = ["6285786508110","6281225219140"] //ganti agar fitur owner bisa di gunakan
 global.ownernomer = "6285786508110" // nomor wa kalian
 global.ownernomerr = "+6285786508110" //nmr wa kalian
-global.thumbnail = "./image/lol.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
+global.thumbnail = "./image/null-20221225-WA0002.jpg" // ini lol.jpg adalah nama foto di folder image. untuk foto bot
 global.donasi = "./image/donasi.jpg" // foto donasi di folder image
 global.background_welcome="https://telegra.ph/file/90a931648de597820bc08.jpg" // maks size 30kb, agar welcome image nya tdk delay
 global.thumbGif = 'https://telegra.ph/file/e90bef3779d3c5812a5d1.mp4'
